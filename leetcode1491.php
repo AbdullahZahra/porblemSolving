@@ -1,3 +1,5 @@
+<?php
+
 /**
     Problem 1491 LeetCode
     1491. Average Salary Excluding the Minimum and Maximum Salary

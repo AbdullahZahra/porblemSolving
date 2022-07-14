@@ -1,3 +1,5 @@
+<?php
+
 /**
     Problem 1523 LeetCode
     1523. Count Odd Numbers in an Interval Range
