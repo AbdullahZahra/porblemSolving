@@ -23,3 +23,12 @@
      sort(v.begin(), v.end(), greater<int>());
 
 ```
+
+### Vector Length C++
+
+```cpp
+    int main() {
+    vector<int> nums;
+    cout << nums.size();
+    }
+```
